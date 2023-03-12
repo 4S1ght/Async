@@ -1,0 +1,24 @@
+{
+  "name": "async",
+  "version": "0.0.1",
+  "description": "A tiny promise-based animation library",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4S1ght/Async.git"
+  },
+  "keywords": [
+    "async",
+    "await",
+    "animation"
+  ],
+  "author": "4Sight",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4S1ght/Async/issues"
+  },
+  "homepage": "https://github.com/4S1ght/Async#readme"
+}
